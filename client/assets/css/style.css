@@ -181,7 +181,7 @@ span.the-btn {
 }
 
 #toggle ul {
-    list-style: disc;
+    list-style: none;
     display: none;
     color: #fff;
     background: rgba(0, 0, 0, 0.2);
